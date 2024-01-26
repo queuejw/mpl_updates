@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="3" />
-	<string name="versionName">1.0 Developer Preview 4</string>
-	<string name="message">This update fixes some bugs and improves performance</string>
-	<string name="tag">dev4a</string>
+	<int name="versionCode" value="4" />
+	<string name="versionName">1.0 Developer Preview 5</string>
+	<string name="message">This update brings new features and fixes some bugs.</string>
+	<string name="tag">dev5</string>
 	<boolean name="beta" value="false"/>
 </map>
