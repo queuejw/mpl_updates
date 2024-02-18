@@ -3,6 +3,6 @@
 	<int name="versionCode" value="8" />
 	<string name="versionName">1.0 Pre-Alpha 2 (dev 1b)</string>
 	<string name="message">Fixes possible problems related to the list of all applications.</string>
-	<string name="tag">dev6a</string>
+	<string name="tag">dev6b</string>
 	<boolean name="beta" value="false"/>
 </map>
