@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="8" />
-	<string name="versionName">1.0 Pre-Alpha 2 (dev 1b)</string>
-	<string name="message">Fixes possible problems related to the list of all applications.</string>
-	<string name="tag">dev6b</string>
+	<int name="versionCode" value="9" />
+	<string name="versionName">1.0 Pre-Alpha 2</string>
+	<string name="message">Improvements to the Start menu, design and update center. Fixes work on Android 12+</string>
+	<string name="tag">pre_a2</string>
 	<boolean name="beta" value="false"/>
 </map>
