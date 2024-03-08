@@ -2,7 +2,7 @@
 <map>
 	<int name="versionCode" value="11" />
 	<string name="versionName">1.0 Pre-Alpha 3 (Dev 2)</string>
-	<string name="message">test message</string>
-	<string name="tag">dev7a</string>
+	<string name="message">Color scheme update and bug fixes</string>
+	<string name="tag">dev7b</string>
 	<boolean name="beta" value="false"/>
 </map>
