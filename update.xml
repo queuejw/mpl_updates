@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="12" />
+	<int name="versionCode" value="99" />
 	<string name="versionName">1.0 Pre-Alpha 3 (Dev 2b)</string>
-	<string name="message">design improvements and bug fixes</string>
+	<string name="message">1 1 1 1 1 1 1 1</string>
 	<string name="tag">dev7d</string>
 	<boolean name="beta" value="false"/>
 </map>
