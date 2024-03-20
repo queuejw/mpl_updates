@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="13" />
-	<string name="versionName">1.0 Pre-Alpha 3 (Dev 3)</string>
-	<string name="message">introducing the desktop editing mode (attempt 1)</string>
-	<string name="tag">dev8</string>
-	<boolean name="beta" value="false"/>
+	<int name="versionCode" value="14" />
+	<string name="versionName">1.0 Pre-Alpha 3 (Dev 4)</string>
+	<string name="message">dependencies updated</string>
+	<string name="tag">dev9</string>
+	<boolean name="beta" value="true"/>
 </map>
