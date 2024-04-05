@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="18" />
-	<string name="versionName">1.0 Pre-Alpha 3 (Dev 4) (7652) </string>
-	<string name="message">???????????</string>
-	<string name="tag">exp7652</string>
+	<int name="versionCode" value="20" />
+	<string name="versionName">1.0 Pre-Alpha 3</string>
+	<string name="message">Start menu redesign, improvements for many parts of the application, optimization</string>
+	<string name="tag">pre_a3</string>
 	<boolean name="beta" value="false"/>
 </map>
