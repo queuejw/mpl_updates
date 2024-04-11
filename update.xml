@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="21" />
+	<int name="versionCode" value="22" />
 	<string name="versionName">1.0 Pre-Alpha 4</string>
 	<string name="message">icon packs support and many bug fixes</string>
 	<string name="tag">pre_a4</string>
