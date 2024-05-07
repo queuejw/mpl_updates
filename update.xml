@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="28" />
-	<string name="versionName">1.0 Pre-Alpha 4.6</string>
-	<string name="message">This update fixes some bugs from the previous big update.</string>
-	<string name="tag">pre_a4.6</string>
-	<boolean name="beta" value="false"/>
+	<int name="versionCode" value="30" />
+	<string name="versionName">Experiment 7731</string>
+	<string name="message">Significant optimization of the app list</string>
+	<string name="tag">pre_a4.7</string>
+	<boolean name="beta" value="true"/>
 </map>
