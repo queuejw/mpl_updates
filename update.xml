@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="31" />
-	<string name="versionName">Experiment 7731</string>
-	<string name="message">Hi. This update should significantly increase the performance of MPL. Please test and share your feedback.</string>
-	<string name="tag">exp7731</string>
+	<int name="versionCode" value="32" />
+	<string name="versionName">Experiment 7740</string>
+	<string name="message">This update fixes critical bugs and improves performance.</string>
+	<string name="tag">exp7740</string>
 	<boolean name="beta" value="false"/>
 </map>
