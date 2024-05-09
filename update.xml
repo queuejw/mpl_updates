@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-	<int name="versionCode" value="32" />
-	<string name="versionName">Experiment 7740</string>
-	<string name="message">This update fixes critical bugs and improves performance.</string>
-	<string name="tag">exp7740</string>
+	<int name="versionCode" value="33" />
+	<string name="versionName">Experiment 7740_02</string>
+	<string name="message">This update fixes some issues.</string>
+        <string name="message_ru">Это обновление исправляет некоторые проблемы.</string>
+	<string name="tag">exp7740_02</string>
 	<boolean name="beta" value="false"/>
 </map>
