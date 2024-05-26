@@ -1,9 +1,1 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-	<int name="versionCode" value="36" />
-	<string name="versionName">Pre-Alpha 4.9.1</string>
-	<string name="message">This update fixes some issues.</string>
-        <string name="message_ru">Это обновление исправляет некоторые проблемы.</string>
-	<string name="tag">pre_a4.9.1</string>
-	<boolean name="beta" value="false"/>
-</map>
+https://gist.github.com/queuejw/84b6fc6a534ff77f4e5a5031a5150403
